@@ -47,12 +47,12 @@ Part of project [CodeCraft](https://www.automotiveit.eu/technology/das-bringt-bm
 
 ## Education
 
-**Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_
+**Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(May 2015 - Jul 2018)_
 
 - **_Thesis:_** Prediction of Traffic Situations for Driver Assistant Systems using Machine Learning
 - **_Fields:_** Software Engineering, Robotics, Artificial Intelligence
 
-**Bachelor of Science, Informatics: Games Engineering** @ [TUM](https://www.tum.de/) _(Oct 2011 - Mar 2015)_
+**Bachelor of Science, Informatics: Games Engineering** @ [TUM](https://www.tum.de/) _(Oct 2011 - Apr 2015)_
 
 - **_Thesis:_** Development of a software tool for the annotation of real world car traces
 - **_Fields:_** Computer Graphics, Numerical Methods, Game Physics
