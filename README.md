@@ -33,7 +33,7 @@ Division "Continuous Integration" supporting over 10.000 Developers with their o
 
 
 **Infrastructure Engineer & Service Owner GitHub Enterprise** @ [BMW Group](https://www.bmwgroup.com) _(Sep 2018 - Jan 2022)_\
-Part of project "CodeCraft" building a highly scalable cloud based software development platform.
+Part of project [CodeCraft](https://www.automotiveit.eu/technology/das-bringt-bmws-neue-software-toolchain-fuer-die-entwicklung-308.html) building a highly scalable cloud based software development platform.
 
   - Config-as-Code Tool Development:
     - Led the development of a tool for automating the configuration of CodeCraft services, allowing for self-service configuration updates via Pull Requests by users.
