@@ -1,6 +1,6 @@
 # Simon Rummert
 
-_Software engineer fascinated about everyting Infrastructure, CI/CD and GitOps based in Munich 🥨🍻🇩🇪_
+_Software engineer fascinated about everything Infrastructure, CI/CD and GitOps based in Munich 🥨🍻🇩🇪_
 
 [CV](https://rummsi1337.github.io/cv/) / [Email](mailto:recruit-simon@rummert.cloud) / [LinkedIn](https://www.linkedin.com/in/simon-rummert/) / [GitHub](https://github.com/rummsi1337)
 
